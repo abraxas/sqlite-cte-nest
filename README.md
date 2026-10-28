@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/sqlite-cte-nest">sqlite-cte-nest</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/sqlite-cte-nest"><strong>https://abraxaslabs.tech/research/sqlite-cte-nest</strong></a>
+</p>
+
 
 # sqlite-cte-nest
 
